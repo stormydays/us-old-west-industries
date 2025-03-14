@@ -1,0 +1,17 @@
+abbreviation: RO
+available: false
+classes: 320
+colour: 51
+id: 33
+label: REOL
+longName: refined oil
+name: Refined Oil
+penaltyLength: 124
+penaltyLowerBound: 36
+price: 3331
+sprite:
+  filename: cargoes/refined-oil.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 13

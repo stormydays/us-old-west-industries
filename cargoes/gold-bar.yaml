@@ -1,0 +1,17 @@
+abbreviation: GB
+available: false
+classes: 8
+colour: 67
+id: 1
+label: GDBR
+longName: gold bar
+name: Gold Bar
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 4934
+sprite:
+  filename: cargoes/gold-bar.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 4

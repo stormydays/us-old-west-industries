@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- LVST
+cargoProduction:
+- LETH
+- MEAT
+colour: 1
+fundCostMultiplier: 100
+id: 7
+layout:
+- - - -1
+name: Slaughterhouse
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

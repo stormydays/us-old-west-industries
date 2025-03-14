@@ -1,0 +1,17 @@
+abbreviation: BL
+available: false
+classes: 544
+colour: 161
+id: 35
+label: BOTL
+longName: bottles
+name: Bottles
+penaltyLength: 109
+penaltyLowerBound: 146
+price: 2097
+sprite:
+  filename: cargoes/bottles.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 2

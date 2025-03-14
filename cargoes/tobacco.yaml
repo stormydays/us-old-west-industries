@@ -1,0 +1,17 @@
+abbreviation: TB
+available: false
+classes: 544
+colour: 110
+id: 44
+label: TBCO
+longName: tobacco
+name: Tobacco
+penaltyLength: 28
+penaltyLowerBound: 8
+price: 2837
+sprite:
+  filename: cargoes/tobacco.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1

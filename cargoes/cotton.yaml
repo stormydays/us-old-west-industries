@@ -1,0 +1,17 @@
+abbreviation: CT
+available: false
+classes: 528
+colour: 15
+id: 12
+label: COTT
+longName: cotton
+name: Cotton
+penaltyLength: 128
+penaltyLowerBound: 80
+price: 2138
+sprite:
+  filename: cargoes/cotton.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 4

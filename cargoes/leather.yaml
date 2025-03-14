@@ -1,0 +1,17 @@
+abbreviation: LT
+available: false
+classes: 544
+colour: 38
+id: 34
+label: LETH
+longName: leather
+name: Leather
+penaltyLength: 156
+penaltyLowerBound: 26
+price: 1398
+sprite:
+  filename: cargoes/leather.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1

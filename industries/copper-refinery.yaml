@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CHEM
+- COAL
+- CORE
+cargoProduction:
+- COPR
+colour: 1
+fundCostMultiplier: 100
+id: 18
+layout:
+- - - -1
+name: Copper Refinery
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

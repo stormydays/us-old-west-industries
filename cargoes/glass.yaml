@@ -1,0 +1,17 @@
+abbreviation: GL
+available: false
+classes: 544
+colour: 177
+id: 42
+label: GLAS
+longName: glass
+name: Glass
+penaltyLength: 109
+penaltyLowerBound: 146
+price: 1398
+sprite:
+  filename: cargoes/glass.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1

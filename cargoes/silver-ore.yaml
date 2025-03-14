@@ -1,0 +1,17 @@
+abbreviation: SO
+available: false
+classes: 8
+colour: 20
+id: 2
+label: SLOR
+longName: silver ore
+name: Silver Ore
+penaltyLength: 15
+penaltyLowerBound: 240
+price: 3290
+sprite:
+  filename: cargoes/silver-ore.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 4

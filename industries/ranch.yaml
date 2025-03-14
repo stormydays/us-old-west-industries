@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- GRAI
+cargoProduction:
+- FERT
+- LVST
+colour: 1
+fundCostMultiplier: 100
+id: 3
+layout:
+- - - -1
+name: Ranch
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

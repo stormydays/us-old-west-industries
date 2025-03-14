@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CHEM
+- COAL
+- SLOR
+cargoProduction:
+- SLBR
+colour: 1
+fundCostMultiplier: 100
+id: 16
+layout:
+- - - -1
+name: Silver Refinery
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

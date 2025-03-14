@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FERT
+- MACH
+cargoProduction:
+- COTT
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - -1
+name: Cotton Farm
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: primary

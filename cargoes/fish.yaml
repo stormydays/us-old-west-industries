@@ -1,0 +1,17 @@
+abbreviation: FH
+available: false
+classes: 160
+colour: 90
+id: 39
+label: FISH
+longName: fish
+name: Fish
+penaltyLength: 7
+penaltyLowerBound: 1
+price: 2591
+sprite:
+  filename: cargoes/fish.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

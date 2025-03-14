@@ -1,0 +1,17 @@
+abbreviation: BK
+available: false
+classes: 16
+colour: 180
+id: 17
+label: BRCK
+longName: bricks
+name: Bricks
+penaltyLength: 15
+penaltyLowerBound: 240
+price: 2796
+sprite:
+  filename: cargoes/bricks.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

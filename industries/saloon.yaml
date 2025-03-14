@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FOOD
+- LIQR
+- PASS
+cargoProduction:
+- PASS
+colour: 1
+fundCostMultiplier: 100
+id: 23
+layout:
+- - - -1
+name: Saloon
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

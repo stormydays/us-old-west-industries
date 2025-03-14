@@ -1,0 +1,17 @@
+abbreviation: PR
+available: false
+classes: 544
+colour: 15
+id: 43
+label: PAPR
+longName: paper
+name: Paper
+penaltyLength: 109
+penaltyLowerBound: 146
+price: 1192
+sprite:
+  filename: cargoes/paper.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1

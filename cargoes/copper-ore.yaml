@@ -1,0 +1,17 @@
+abbreviation: CO
+available: false
+classes: 16
+colour: 193
+id: 6
+label: CORE
+longName: copper ore
+name: Copper Ore
+penaltyLength: 15
+penaltyLowerBound: 240
+price: 3290
+sprite:
+  filename: cargoes/copper-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

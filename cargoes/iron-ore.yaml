@@ -1,0 +1,17 @@
+abbreviation: IO
+available: false
+classes: 16
+colour: 116
+id: 8
+label: IORE
+longName: iron ore
+name: Iron Ore
+penaltyLength: 15
+penaltyLowerBound: 240
+price: 2549
+sprite:
+  filename: cargoes/iron-ore.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

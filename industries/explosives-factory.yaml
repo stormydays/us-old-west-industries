@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CHEM
+- MINR
+- REOL
+cargoProduction:
+- DYNA
+colour: 1
+fundCostMultiplier: 100
+id: 6
+layout:
+- - - -1
+name: Explosives Factory
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- DYNA
+- LMBR
+- MACH
+cargoProduction:
+- CORE
+colour: 1
+fundCostMultiplier: 100
+id: 17
+layout:
+- - - -1
+name: Copper Mine
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

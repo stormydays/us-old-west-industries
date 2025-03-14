@@ -1,0 +1,17 @@
+abbreviation: WR
+available: false
+classes: 64
+colour: 148
+id: 18
+label: WATR
+longName: water
+name: Water
+penaltyLength: 60
+penaltyLowerBound: 12
+price: 2344
+sprite:
+  filename: cargoes/water.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

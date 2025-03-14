@@ -1,0 +1,17 @@
+abbreviation: SD
+available: false
+classes: 2576
+colour: 39
+id: 41
+label: SAND
+longName: sand
+name: Sand
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 1933
+sprite:
+  filename: cargoes/sand.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COPR
+- GDBR
+- PAPR
+- SLBR
+cargoProduction:
+- VALU
+colour: 1
+fundCostMultiplier: 100
+id: 21
+layout:
+- - - -1
+name: Mint
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

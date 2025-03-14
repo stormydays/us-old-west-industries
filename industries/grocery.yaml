@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FOOD
+- LIQR
+- MEAT
+- MILK
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 26
+layout:
+- - - -1
+name: Grocery
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

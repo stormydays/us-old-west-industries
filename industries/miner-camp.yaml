@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FOOD
+- LIQR
+- WATR
+cargoProduction:
+- PASS
+colour: 1
+fundCostMultiplier: 100
+id: 45
+layout:
+- - - -1
+name: Miner Camp
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

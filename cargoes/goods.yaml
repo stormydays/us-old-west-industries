@@ -1,0 +1,17 @@
+abbreviation: GD
+available: false
+classes: 544
+colour: 146
+id: 26
+label: GOOD
+longName: goods
+name: Goods
+penaltyLength: 68
+penaltyLowerBound: 12
+price: 3084
+sprite:
+  filename: cargoes/goods.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 2

@@ -1,0 +1,17 @@
+abbreviation: PS
+available: false
+classes: 1
+colour: 171
+id: 19
+label: PASS
+longName: passengers
+name: Passengers
+penaltyLength: 12
+penaltyLowerBound: 0
+price: 1604
+sprite:
+  filename: cargoes/passengers.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1

@@ -1,0 +1,17 @@
+abbreviation: MC
+available: false
+classes: 32
+colour: 191
+id: 27
+label: MACH
+longName: machinery
+name: Machinery
+penaltyLength: 58
+penaltyLowerBound: 16
+price: 2920
+sprite:
+  filename: cargoes/machinery.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 4

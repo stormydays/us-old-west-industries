@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CLTH
+- FUEL
+- GOOD
+- PAPR
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 25
+layout:
+- - - -1
+name: General Store
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

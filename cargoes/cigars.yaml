@@ -1,0 +1,17 @@
+abbreviation: CR
+available: false
+classes: 544
+colour: 111
+id: 45
+label: CIGR
+longName: cigars
+name: Cigars
+penaltyLength: 68
+penaltyLowerBound: 12
+price: 3783
+sprite:
+  filename: cargoes/cigars.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 0

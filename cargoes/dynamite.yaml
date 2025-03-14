@@ -1,0 +1,17 @@
+abbreviation: DM
+available: false
+classes: 800
+colour: 183
+id: 31
+label: DYNA
+longName: dynamite
+name: Dynamite
+penaltyLength: 62
+penaltyLowerBound: 18
+price: 3948
+sprite:
+  filename: cargoes/dynamite.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 1

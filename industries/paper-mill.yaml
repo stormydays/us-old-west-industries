@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CHEM
+- WOOD
+cargoProduction:
+- PAPR
+colour: 1
+fundCostMultiplier: 100
+id: 34
+layout:
+- - - -1
+name: Paper Mill
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

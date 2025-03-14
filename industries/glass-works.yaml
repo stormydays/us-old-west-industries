@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CHEM
+- SAND
+cargoProduction:
+- BOTL
+- GLAS
+colour: 1
+fundCostMultiplier: 100
+id: 9
+layout:
+- - - -1
+name: Glass Works
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

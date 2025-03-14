@@ -1,0 +1,17 @@
+abbreviation: WD
+available: false
+classes: 16
+colour: 109
+id: 13
+label: WOOD
+longName: wood
+name: Wood
+penaltyLength: 230
+penaltyLowerBound: 25
+price: 3742
+sprite:
+  filename: cargoes/wood.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- GEMS
+- GDBR
+- SLBR
+cargoProduction:
+- VALU
+colour: 1
+fundCostMultiplier: 100
+id: 40
+layout:
+- - - -1
+name: Jewler
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

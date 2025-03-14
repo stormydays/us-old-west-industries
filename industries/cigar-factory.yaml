@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- PAPR
+- TBCO
+cargoProduction:
+- CIGR
+colour: 1
+fundCostMultiplier: 100
+id: 46
+layout:
+- - - -1
+name: Cigar Factory
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

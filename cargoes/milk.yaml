@@ -1,0 +1,17 @@
+abbreviation: ML
+available: false
+classes: 160
+colour: 14
+id: 40
+label: MILK
+longName: milk
+name: Milk
+penaltyLength: 10
+penaltyLowerBound: 2
+price: 2015
+sprite:
+  filename: cargoes/milk.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 1

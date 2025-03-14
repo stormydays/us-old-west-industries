@@ -1,0 +1,17 @@
+abbreviation: MN
+available: false
+classes: 528
+colour: 109
+id: 38
+label: MINR
+longName: minerals
+name: Minerals
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 1768
+sprite:
+  filename: cargoes/minerals.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: LM
+available: false
+classes: 544
+colour: 39
+id: 14
+label: LMBR
+longName: lumber
+name: Lumber
+penaltyLength: 175
+penaltyLowerBound: 80
+price: 3783
+sprite:
+  filename: cargoes/lumber.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

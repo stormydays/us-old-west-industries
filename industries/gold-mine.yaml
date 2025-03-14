@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- DYNA
+- LMBR
+- MACH
+cargoProduction:
+- GDOR
+colour: 1
+fundCostMultiplier: 100
+id: 13
+layout:
+- - - -1
+name: Gold Mine
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

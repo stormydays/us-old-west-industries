@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- FISH
+colour: 1
+fundCostMultiplier: 100
+id: 36
+layout:
+- - - -1
+name: Fishing Grounds
+placement: on-water
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

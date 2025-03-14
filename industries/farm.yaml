@@ -1,0 +1,30 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FERT
+- MACH
+cargoProduction:
+- GRAI
+colour: 1
+fundCostMultiplier: 100
+id: 0
+layout:
+- - - 0
+name: Farm
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/farm/1.png
+      left: -31
+      top: 0
+type: primary

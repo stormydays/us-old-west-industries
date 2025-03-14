@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- WATR
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 43
+layout:
+- - - -1
+name: Water Tower
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

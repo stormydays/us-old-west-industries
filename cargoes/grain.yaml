@@ -1,0 +1,17 @@
+abbreviation: GR
+available: false
+classes: 528
+colour: 51
+id: 23
+label: GRAI
+longName: grain
+name: Grain
+penaltyLength: 18
+penaltyLowerBound: 2
+price: 2385
+sprite:
+  filename: cargoes/grain.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

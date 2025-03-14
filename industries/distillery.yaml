@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BOTL
+- GRAI
+- WATR
+cargoProduction:
+- LIQR
+colour: 1
+fundCostMultiplier: 100
+id: 22
+layout:
+- - - -1
+name: Distillery
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

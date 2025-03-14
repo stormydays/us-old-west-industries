@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- GLAS
+- LETH
+- PAPR
+- STEL
+cargoProduction:
+- GOOD
+colour: 1
+fundCostMultiplier: 100
+id: 33
+layout:
+- - - -1
+name: Goods Factory
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

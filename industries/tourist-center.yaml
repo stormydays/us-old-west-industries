@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction:
+- TOUR
+colour: 1
+fundCostMultiplier: 100
+id: 42
+layout:
+- - - -1
+name: Tourist Center
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

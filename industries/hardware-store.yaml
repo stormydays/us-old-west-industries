@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BRCK
+- GLAS
+- LMBR
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 39
+layout:
+- - - -1
+name: Hardware Store
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

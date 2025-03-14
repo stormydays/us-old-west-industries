@@ -1,0 +1,17 @@
+abbreviation: GS
+available: false
+classes: 8
+colour: 49
+id: 4
+label: GEMS
+longName: gemstones
+name: Gemstones
+penaltyLength: 230
+penaltyLowerBound: 25
+price: 4112
+sprite:
+  filename: cargoes/gemstones.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 1

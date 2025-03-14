@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- COAL
+- IORE
+- MINR
+cargoProduction:
+- STEL
+colour: 1
+fundCostMultiplier: 100
+id: 20
+layout:
+- - - -1
+name: Steel Mill
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

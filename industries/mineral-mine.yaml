@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- MACH
+cargoProduction:
+- MINR
+colour: 1
+fundCostMultiplier: 100
+id: 32
+layout:
+- - - -1
+name: Mineral Mine
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

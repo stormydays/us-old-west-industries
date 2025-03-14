@@ -1,0 +1,17 @@
+abbreviation: ME
+available: false
+classes: 160
+colour: 119
+id: 36
+label: MEAT
+longName: meat
+name: Meat
+penaltyLength: 7
+penaltyLowerBound: 1
+price: 2426
+sprite:
+  filename: cargoes/meat.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 10

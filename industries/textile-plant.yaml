@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CHEM
+- COTT
+- LETH
+cargoProduction:
+- CLTH
+- GOOD
+colour: 1
+fundCostMultiplier: 100
+id: 8
+layout:
+- - - -1
+name: Textile Plant
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

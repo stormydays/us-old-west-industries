@@ -1,0 +1,17 @@
+abbreviation: CG
+available: false
+classes: 544
+colour: 173
+id: 37
+label: CLTH
+longName: clothing
+name: Clothing
+penaltyLength: 175
+penaltyLowerBound: 80
+price: 1974
+sprite:
+  filename: cargoes/clothing.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 4

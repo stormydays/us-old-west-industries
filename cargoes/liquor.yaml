@@ -1,0 +1,17 @@
+abbreviation: LQ
+available: false
+classes: 32
+colour: 153
+id: 24
+label: LIQR
+longName: liquor
+name: Liquor
+penaltyLength: 60
+penaltyLowerBound: 12
+price: 3742
+sprite:
+  filename: cargoes/liquor.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 2

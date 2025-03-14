@@ -1,0 +1,17 @@
+abbreviation: GO
+available: false
+classes: 8
+colour: 189
+id: 0
+label: GDOR
+longName: gold ore
+name: Gold Ore
+penaltyLength: 15
+penaltyLowerBound: 240
+price: 3701
+sprite:
+  filename: cargoes/gold-ore.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 4

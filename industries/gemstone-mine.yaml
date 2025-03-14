@@ -1,0 +1,62 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- MACH
+- WATR
+cargoProduction:
+- GEMS
+colour: 1
+fundCostMultiplier: 100
+id: 47
+layout:
+- - - -1
+- - - 0
+    - -1
+  - - 2
+    - -1
+  - - 1
+    - -1
+name: Gemstone Mine
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/gemstone-mine/1.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/gemstone-mine/5.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/gemstone-mine/2.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/gemstone-mine/4.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/gemstone-mine/3.png
+      left: -31
+      top: 0
+type: secondary

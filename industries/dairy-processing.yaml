@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- MILK
+cargoProduction:
+- FOOD
+colour: 1
+fundCostMultiplier: 100
+id: 5
+layout:
+- - - -1
+name: Dairy Processing
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

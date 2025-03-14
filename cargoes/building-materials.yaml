@@ -1,0 +1,17 @@
+abbreviation: BM
+available: false
+classes: 544
+colour: 57
+id: 15
+label: BDMT
+longName: building materials
+name: Building Materials
+penaltyLength: 207
+penaltyLowerBound: 48
+price: 4112
+sprite:
+  filename: cargoes/building-materials.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1

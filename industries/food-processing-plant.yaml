@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- BOTL
+- FRUT
+- GRAI
+- MEAT
+cargoProduction:
+- FOOD
+colour: 1
+fundCostMultiplier: 100
+id: 12
+layout:
+- - - -1
+name: Food Processing Plant
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

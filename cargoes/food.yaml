@@ -1,0 +1,17 @@
+abbreviation: FD
+available: false
+classes: 160
+colour: 206
+id: 25
+label: FOOD
+longName: food
+name: Food
+penaltyLength: 11
+penaltyLowerBound: 1
+price: 3084
+sprite:
+  filename: cargoes/food.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 1

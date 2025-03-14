@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- GOOD
+- VALU
+cargoProduction:
+- LIQR
+- MACH
+- CIGR
+colour: 1
+fundCostMultiplier: 100
+id: 41
+layout:
+- - - -1
+name: Port
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

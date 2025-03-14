@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FUEL
+- GLAS
+- REOL
+- STEL
+cargoProduction:
+- MACH
+colour: 1
+fundCostMultiplier: 100
+id: 35
+layout:
+- - - -1
+name: Machine Shop
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

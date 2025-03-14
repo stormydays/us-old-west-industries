@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- CLAY
+- COAL
+- MINR
+cargoProduction:
+- BRCK
+colour: 1
+fundCostMultiplier: 100
+id: 37
+layout:
+- - - -1
+name: Brick Works
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

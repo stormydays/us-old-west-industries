@@ -1,0 +1,17 @@
+abbreviation: CP
+available: false
+classes: 32
+colour: 194
+id: 7
+label: COPR
+longName: copper
+name: Copper
+penaltyLength: 15
+penaltyLowerBound: 240
+price: 4112
+sprite:
+  filename: cargoes/copper.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 1

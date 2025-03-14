@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FERT
+- FUEL
+- MINR
+cargoProduction:
+- CHEM
+- GOOD
+colour: 1
+fundCostMultiplier: 100
+id: 31
+layout:
+- - - -1
+name: Chemical Plant
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

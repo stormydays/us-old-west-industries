@@ -1,0 +1,21 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FOOD
+- GOOD
+- LIQR
+- TOUR
+cargoProduction:
+- TOUR
+colour: 1
+fundCostMultiplier: 100
+id: 24
+layout:
+- - - -1
+name: Hotel
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

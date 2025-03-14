@@ -1,0 +1,20 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- OIL_
+cargoProduction:
+- CHEM
+- FUEL
+- REOL
+colour: 1
+fundCostMultiplier: 100
+id: 30
+layout:
+- - - -1
+name: Oil Refinery
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
