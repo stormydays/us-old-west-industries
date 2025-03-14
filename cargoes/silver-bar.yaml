@@ -1,13 +1,13 @@
 abbreviation: SB
-available: false
+available: true
 classes: 8
 colour: 23
 id: 3
 label: SLBR
 longName: silver bar
 name: Silver Bar
-penaltyLength: 215
-penaltyLowerBound: 40
+penaltyLength: 225
+penaltyLowerBound: 30
 price: 4523
 sprite:
   filename: cargoes/silver-bar.png

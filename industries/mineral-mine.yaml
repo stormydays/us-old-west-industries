@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - MACH
@@ -8,11 +8,22 @@ colour: 1
 fundCostMultiplier: 100
 id: 32
 layout:
-- - - -1
+- - - 0
 name: Mineral Mine
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/mineral-mine/1.png
+      left: -31
+      top: 0
 type: primary

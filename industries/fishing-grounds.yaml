@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance: []
 cargoProduction:
@@ -7,11 +7,22 @@ colour: 1
 fundCostMultiplier: 100
 id: 36
 layout:
-- - - -1
+- - - 0
 name: Fishing Grounds
 placement: on-water
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/fishing-grounds/1.png
+      left: -31
+      top: 0
 type: primary

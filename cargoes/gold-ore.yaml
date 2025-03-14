@@ -1,13 +1,13 @@
 abbreviation: GO
-available: false
+available: true
 classes: 8
 colour: 189
 id: 0
 label: GDOR
 longName: gold ore
 name: Gold Ore
-penaltyLength: 15
-penaltyLowerBound: 240
+penaltyLength: 201
+penaltyLowerBound: 54
 price: 3701
 sprite:
   filename: cargoes/gold-ore.png

@@ -1,21 +1,32 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
 - BOTL
 - GRAI
 cargoProduction:
-- MILK
 - FERT
 - LVST
+- MILK
 colour: 1
 fundCostMultiplier: 100
 id: 4
 layout:
-- - - -1
+- - - 0
 name: Dairy Farm
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/dairy-farm/1.png
+      left: -31
+      top: 0
 type: primary

@@ -1,19 +1,30 @@
-available: false
+available: true
 callbacks: ''
 cargoAcceptance:
-- FERT
 - MACH
+- FERT
 cargoProduction:
 - FRUT
 colour: 1
 fundCostMultiplier: 100
 id: 2
 layout:
-- - - -1
+- - - 0
 name: Fruit Plantation
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 75
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/fruit-plantation/1.png
+      left: -31
+      top: 0
 type: primary
