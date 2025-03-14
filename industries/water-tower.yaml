@@ -7,11 +7,22 @@ colour: 1
 fundCostMultiplier: 100
 id: 43
 layout:
-- - - -1
+- - - 0
 name: Water Tower
 placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 0
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/water-tower/1.png
+      left: -31
+      top: 0
 type: tertiary
